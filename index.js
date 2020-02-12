@@ -41,7 +41,7 @@ function addNumbers(num1, num2) {
 */
 function makePersonObject(id, name, email) {
  return {
-   id: id, name: name, email:
+   id: id, name: name, email: email
  };
 }
 /**
